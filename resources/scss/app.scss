@@ -1,5 +1,11 @@
-@import "~bootstrap/scss/bootstrap";
+@import '~bootstrap/scss/bootstrap';
+@import '/node_modules/@fortawesome/fontawesome-free/css/all.min.css';
 
-main {
-    background-color: lightcoral;
+
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Cinzel Decorative', cursive;
+    color: darkgrey;
 }
+
